@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @hungrynot
-- 👀 I’m interested in lerarningto code in Phyton , matlab and C++
-- 🌱 I’m currently learning numerical methods in matlab
-- 💞️ I’m looking to collaborate on engineering pojects using software development
-- 📫 How to reach me ,write to my email taniacd46@gmail.com
-- 😄 Pronouns: -
-- ⚡ Fun fact: I like bad jokes
+-Hi, I’m @hungrynot
+-Currently, I’m interested in lerarning to code in Phyton , matlab C++
 
 <!---
 hungrynot/hungrynot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
