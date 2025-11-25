@@ -1,5 +1,4 @@
--Hi, I’m @hungrynot
--Currently, I’m interested in lerarning to code in Phyton , matlab C++
+-Hi, I’m @hungrynot. Currently, I’m interested in lerarning to code in Phyton , matlab and C++.
 
 <!---
 hungrynot/hungrynot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
